@@ -1,0 +1,5 @@
+body{background-color:#ffffff;display:flex;justify-content:center;}
+#contenedor{height:200px;width:200px;background-color:#000000;display:flex;}
+#columna1{height:200px;background-color:#00ffff;flex:1;}
+#columna2{height:200px;background-color:#0000ff;flex:1;}
+#columna3{height:200px;background-color:#ff0000;flex:1;}
