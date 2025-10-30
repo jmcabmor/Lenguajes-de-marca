@@ -1,3 +1,0 @@
-body{background-color:#00ffff;display:flex;justify-content:center;}
-#contenedor{height:620px;width:620px;background-color:#ffffff;display:grid;grid-template-columns: auto auto ;gap: 20px;padding: 20px;}
-#contenedor img{height:auto;max-width: 100%;}
